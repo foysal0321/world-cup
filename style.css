@@ -104,6 +104,10 @@ body{
     height: 340px;
     color: rgb(57, 57, 57);
 }
+.item-img img{
+    width: 312px;
+    height: 170px;
+}
 .item-img-title{
     margin-top: 12px;
 }
@@ -169,6 +173,10 @@ body{
     margin-top: 20px;
     font-size: 23px; 
 } 
+.footer-icon a{
+    text-decoration: none;
+    color: white;
+}
  .footer-icon i{
     margin: 13px;
     cursor: pointer;
