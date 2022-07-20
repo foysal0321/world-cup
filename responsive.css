@@ -12,7 +12,7 @@ body{
 /* mobile-divice */
 @media screen and (max-width:699px){
     .header{
-        height: 595px;
+        height: 606px;
         padding: 20px;      
     }
     .header-text{
@@ -30,7 +30,7 @@ body{
         display: none;
     } 
     .header-img img{
-        margin-top: 30px;
+        margin-top: 40px;
         width: 300px;     
     }
     /*  */

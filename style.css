@@ -73,17 +73,18 @@ body{
 .item-menu button{
     padding: 14px 27px;
     margin-top: 12px;
-    border-radius: 10px;  
+    border-radius: 10px; 
+    border: none; 
 }
 .item-menu a{
     text-decoration: none;
     font-weight: 600;
     color: black;
 }
-.upcmatch{
+.upcmatch,.blog-btn{
     background-color: rgb(224, 33, 33);   
 }
-.upmatch{
+.upmatch,.blog-btn{
     color: white !important;
 }
 .item-imgs{
@@ -100,13 +101,14 @@ body{
     border: 1px solid rgba(128, 128, 128, 0.324);
     max-width: 312px;
     margin: 9px;
-    border-radius: 9px;
+    border-radius: 12px;
     height: 340px;
     color: rgb(57, 57, 57);
 }
 .item-img img{
     width: 312px;
     height: 170px;
+    border-radius: 7px 7px 0px 0px;
 }
 .item-img-title{
     margin-top: 12px;
